@@ -1,0 +1,10 @@
+.navbar-brand {
+    font-size: 32px;
+  }
+  
+  nav a:hover {
+    cursor: pointer;
+    outline: 2px solid;
+    outline-color: yellow;
+    background: green;
+  }
